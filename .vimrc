@@ -44,7 +44,7 @@ source $VIMHOME/modules/ruby.vim
 
 if has("gui_running")
     "Colorscheme
-    colorscheme jellybeans
+    colorscheme desert
 
     "guifont
     set guifont=Monaco:h16
